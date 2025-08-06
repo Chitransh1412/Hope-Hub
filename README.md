@@ -19,3 +19,12 @@ Flask, TensorFlow, Keras, OpenCV, Bootstrap
 - `/static` – CSS, images, uploads
 - `/models` – Pretrained `.h5` ML models
 - `/reports` – Generated PDFs
+
+## 🔗 Download Pretrained Models
+
+The following models are required to run this project. Please download them manually and place them in the `models/` directory:
+
+- [Brain Tumor Classifier (.h5)](https://drive.google.com/file/d/1fhJZ2DEcYpkTGnLEc0tNJikpdZJvoctW/view?usp=drive_link)
+- [Skin Cancer Binary Model (.h5)](https://drive.google.com/file/d/15pN-khXm_NDXSsqMW4ZNkZha2gzcOAWZ/view?usp=drive_link)
+
+> ⚠️ Note: These files are not included in the repository due to size limits.
