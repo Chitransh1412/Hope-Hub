@@ -1,0 +1,4 @@
+# Ignore large model files
+models/brain_tumor_classifier.h5
+models/skin_cancer_binary_model.h5
+
