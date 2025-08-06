@@ -1,6 +1,6 @@
 # 🧬 Hope Hub – AI Cancer Detection Platform
 
-![Hope Hub Thumbnail](assets/Screenshot 2025-08-06 235405.png)
+![Hope Hub Thumbnail](assets/Screenshot%202025-08-06%20235405.png)
 
 An AI-powered Flask-based web app to detect Skin, Brain, and Lung cancer using trained ML models.  
 Generates PDF reports and logs patient metadata for dataset analysis.
