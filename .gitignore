@@ -4,3 +4,7 @@ models/skin_cancer_binary_model.h5
 
 models/brain_tumor_classifier.h5
 models/skin_cancer_binary_model.h5
+*.pyc
+*.h5
+__pycache__/
+assets/
